@@ -12,4 +12,4 @@ Soy Rodolfo
 
 ## Imagenes
 
-![imagen](mexicogif.gif)
+![imagen](horse.gif)
